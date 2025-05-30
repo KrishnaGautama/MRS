@@ -1,2 +1,2 @@
 # MRS
-Movie Recommendation system
+This project is a simple Movie Recommendation System built using Python. It suggests movies to users based on their preferences using collaborative filtering and content-based filtering techniques. The system uses libraries like Pandas, Scikit-learn, and optionally Streamlit for a user interface. It is trained on the popular MovieLens dataset and can be extended with deep learning or deployed as a web app.
